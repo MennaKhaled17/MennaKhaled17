@@ -70,8 +70,7 @@ Building NLP pipelines tailored to the Arabic language — including grammar aut
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:menakhalid2020@gmail.com)
 ---
 
 *AI specialist open to internship and research opportunities — particularly in Arabic NLP, computer vision, and applied deep learning.*
