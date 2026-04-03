@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🎓 Final-year CS student at [Your University Name] — specializing in Artificial Intelligence
+- 🎓 Final-year CS student at MIU — specializing in Artificial Intelligence
 - 🤖 Core expertise in Deep Learning architectures, model training, and AI research
 - 🏥 Applying AI to medical imaging (CT scan analysis / lung cancer detection)
 - 🌍 Based in Egypt — open to remote AI research and internship opportunities
