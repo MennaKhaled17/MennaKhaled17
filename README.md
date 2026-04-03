@@ -1,15 +1,15 @@
 # Hi, I'm Menna Khaled 👋
 
-> Final-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and Natural Language Processing — with a special focus on the Arabic language domain.
+> **AI Specialist** · Final-year Computer Science student with a deep focus on Artificial Intelligence — spanning Machine Learning, Deep Learning, Computer Vision, and Arabic NLP. Building intelligent systems that solve real-world problems.
 
 ---
 
 ## About me
 
-- 🎓 Final-year CS student at [Your University Name]
-- 🤖 Focused on Deep Learning, Computer Vision, and Arabic NLP
-- 🏥 Building medical imaging solutions (CT scan / lung cancer detection)
-- 🌍 Based in Egypt — open to remote research and internship opportunities
+- 🎓 Final-year CS student at [Your University Name] — specializing in Artificial Intelligence
+- 🤖 Core expertise in Deep Learning architectures, model training, and AI research
+- 🏥 Applying AI to medical imaging (CT scan analysis / lung cancer detection)
+- 🌍 Based in Egypt — open to remote AI research and internship opportunities
 - 🔭 Currently working on: Arabic NLP benchmarking and grammar correction tools
 - 📚 Always learning, always building
 
@@ -39,13 +39,28 @@
 
 ---
 
+## AI Specialization
+
+I focus primarily on applied AI research and development across three domains:
+
+**🧠 Machine Learning & Deep Learning**
+Designing, training, and evaluating neural networks — CNNs, RNNs, and transformer-based models — for classification, prediction, and generative tasks.
+
+**🏥 Computer Vision for Medical Imaging**
+Applying deep learning to CT scan analysis for early-stage lung cancer detection. Comparing model architectures (ResNet, VGG, custom CNNs) on real clinical datasets.
+
+**🌐 Arabic Natural Language Processing**
+Building NLP pipelines tailored to the Arabic language — including grammar autocorrection, dataset curation, and language modeling for an underrepresented language in AI research.
+
+---
+
 ## Featured Projects
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [🫁 Lung Cancer Detection](https://github.com/MennaKhaled17/lung-cancer-deep-learing) | Comparing deep learning models on CT scan images for cancer classification | Python, TensorFlow, Keras | ✅ Complete |
 | [🏥 Healthcare Classification ML](https://github.com/MennaKhaled17/Healthcare-Classification-ML) | ML-based classification system for healthcare data | Python, Scikit-learn | ✅ Complete |
-| [📝 Arabic Grammar AutoCorrection](https://github.com/MennaKhaled17/Arabic-Grammar-AutoCorrection) | Automatic grammar correction for Arabic text using NLP techniques | Python, NLP | 🔄 Active |
+| [📝 Arabic Grammar AutoCorrection](https://github.com/MennaKhaled17/Arabic-Grammar-AutoCorrection) | Automatic grammar correction for Arabic text using NLP techniques | Python, NLP |✅ Complete |
 | [🗂️ Arabic Dataset](https://github.com/MennaKhaled17/arabic-dataset) | Curated Arabic language dataset designed for NLP research tasks | Python | ✅ Complete |
 
 ---
@@ -71,4 +86,4 @@
 
 ---
 
-*Open to internship and research opportunities in AI/ML — especially Arabic NLP and medical imaging.*
+*AI specialist open to internship and research opportunities — particularly in Arabic NLP, computer vision, and applied deep learning.*
