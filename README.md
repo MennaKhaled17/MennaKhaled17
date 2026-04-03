@@ -63,19 +63,6 @@ Building NLP pipelines tailored to the Arabic language — including grammar aut
 | [📝 Arabic Grammar AutoCorrection](https://github.com/MennaKhaled17/Arabic-Grammar-AutoCorrection) | Automatic grammar correction for Arabic text using NLP techniques | Python, NLP |✅ Complete |
 | [🗂️ Arabic Dataset](https://github.com/MennaKhaled17/arabic-dataset) | Curated Arabic language dataset designed for NLP research tasks | Python | ✅ Complete |
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MennaKhaled17&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="Menna's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaKhaled17&layout=compact&hide_border=true" height="160" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MennaKhaled17&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
