@@ -58,7 +58,7 @@ Building NLP pipelines tailored to the Arabic language — including grammar aut
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| [🤖 VCAI](https://github.com/AliAbdallah21/VCAI) | AI project — contributor | Python | 🤝 Contributed |
+| [🤖 VCAI](https://github.com/AliAbdallah21/VCAI) | AI-powered sales training platform simulating real customer conversations in Egyptian Arabic dialect | Python, React, FastAPI | 🤝 Contributed |
 | [🫁 Lung Cancer Detection](https://github.com/MennaKhaled17/lung-cancer-deep-learing) | Comparing deep learning models on CT scan images for cancer classification | Python, TensorFlow, Keras | ✅ Complete |
 | [🏥 Healthcare Classification ML](https://github.com/MennaKhaled17/Healthcare-Classification-ML) | ML-based classification system for healthcare data | Python, Scikit-learn | ✅ Complete |
 | [📝 Arabic Grammar AutoCorrection](https://github.com/MennaKhaled17/Arabic-Grammar-AutoCorrection) | Automatic grammar correction for Arabic text using NLP techniques | Python, NLP | ✅ Complete |
